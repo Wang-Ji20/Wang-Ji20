@@ -1,12 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-Ji20&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wang-Ji20&count_private=true&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Wang-Ji20
 - 👀 I’m interested in Virtualization & Database Systems
-- 🌱 I’m currently learning Rust, Hypervisor, DBMS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++, Haskell, Rust, Hypervisor, DBMS
+- 💞️ I’m looking to collaborate on well everything
+- 📫 How to reach me jiwangcdi@gmail.com
 
 <!---
 Wang-Ji20/Wang-Ji20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
