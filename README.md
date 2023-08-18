@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Wang-Ji20
-- 👀 I’m interested in Virtualization & Database Systems
+- 👀 I’m interested in Dostoyevsky, Type-Moon, Virtualization & Database Systems
 - 🌱 I’m currently learning C++, Haskell, Rust, Hypervisor, DBMS
 - 💞️ I’m looking to collaborate on well everything
 - 📫 How to reach me jiwangcdi@gmail.com
