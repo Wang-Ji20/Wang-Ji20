@@ -9,9 +9,9 @@ Working on:
 - 
 Saturn(C++): A database system
 
-CDI(C++): An utility programming library
+CDI(C++): A utility programming library
 
-XP3ToWeb(TypeScript): Adapter from Kirikiri to WebGAL
+XP3ToWeb(TypeScript): An adapter from Kirikiri to WebGAL
 
 FFVI(C++): A regular RPG game system
 
