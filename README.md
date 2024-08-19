@@ -1,19 +1,19 @@
 
 - 👋 Hi, I’m @Wang-Ji20
-- 👀 I’m interested in Dostoyevsky, Type-Moon, Virtualization & Database Systems
-- 🌱 I’m currently learning C++, Haskell, Rust, Hypervisor, DBMS
+- 👀 I’m interested in Dostoyevsky, Type-Moon, Gamedev & Big data applications(Ad, Search, RecSys)
+- 🌱 I’m currently learning DB, Godot, Tokio
 - 💞️ I’m looking to collaborate on well everything
 - 📫 How to reach me jiwangcdi@gmail.com
 
+Prefer F# Go Typescript for high level apps, Rust for low levels, only use C++ & Python for necessary evil. Java if paid.
+
 Working on:
 - 
-Saturn(C++): A database system
+Uranus(Rust): A database system.
 
-CDI(C++): A utility programming library
+XP3ToWeb(TypeScript): An adapter from Kirikiri to Web.
 
-XP3ToWeb(TypeScript): An adapter from Kirikiri to WebGAL
-
-FFVI(C++): A regular RPG game system
+Mutemaanpa(F#, C#):  A 3D vampire survivor like RPG game.
 
 Among other things..
 
