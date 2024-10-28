@@ -1,21 +1,19 @@
 
 - 👋 Hi, I’m @Wang-Ji20
-- 👀 I’m interested in Dostoyevsky, Type-Moon, Gamedev & Big data applications(Ad, Search, RecSys)
-- 🌱 I’m currently learning DB, Godot, Tokio
+- 👀 I’m interested in Russian Literature, Type-Moon, Gamedev, LLM & Big data applications(Ad, Search, RecSys)
+- 🌱 I’m currently learning Distributed Systems, Godot, LLM
 - 💞️ I’m looking to collaborate on well everything
 - 📫 How to reach me jiwangcdi@gmail.com
 
-Prefer F# Go Typescript for high level apps, Rust for low levels, only use C++ & Python for necessary evil. Java if paid.
+Prefer F# Kotlin Typescript Python for high level apps, Rust for low levels, only use C++ for necessary evil. Java for day job.
 
 Working on:
 - 
-Uranus(Rust): A database system.
+Mutemaanpa(C#):  A 3D rouge vampire survivor like RPG game.
 
-XP3ToWeb(TypeScript): An adapter from Kirikiri to Web.
+Dramax(Tex): A LaTeX template for writing drama scripts.
 
-Mutemaanpa(F#, C#):  A 3D vampire survivor like RPG game.
-
-Among other things..
+And a lot of things abandoned...
 
 <!---
 Wang-Ji20/Wang-Ji20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
